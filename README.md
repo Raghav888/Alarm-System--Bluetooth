@@ -4,7 +4,7 @@ Bluetooth                                                                       
 EN	3.3V
 +5V	 5V
 GND	GND
-TX	10
+TX	10  
 RX	11
 
 AT command mode-
